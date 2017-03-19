@@ -23,9 +23,9 @@
 
 ---
 
-The following terms are used synonymously throughout ...
-- Boilerplate
-- JavaScript Dev Environment
-- Seed
-- Starter Kit
-- Starter Project
+*The following terms are used synonymously ...*
+- *Boilerplate*
+- *JavaScript Dev Environment*
+- *Seed*
+- *Starter Kit*
+- *Starter Project*
