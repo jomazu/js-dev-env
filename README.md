@@ -1,4 +1,4 @@
-# Building a JavaScript Development Environment
+# Building a Development Environment
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="150">
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-***Terms are used synonymously ...***
+***Terms used synonymously ...***
 - *Boilerplate*
 - *JavaScript Dev Environment*
 - *Seed*
