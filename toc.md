@@ -1,11 +1,10 @@
 ## Table of Contents
 - Editors
-  - [Atom](https://atom.io/)
   - [VS Code](https://code.visualstudio.com/)
   - [Webstorm](https://www.jetbrains.com/webstorm/)
 - Editor Configuration
-  - [Editor Config](http://editorconfig.org/)
-    - [My .editorconfig](.editorconfig)
+  - [EditorConfig](http://editorconfig.org/)
+    - My [.editorconfig](.editorconfig) setup
 - Package Management
   - [Bower](https://bower.io/)
   - [JSPM](http://jspm.io/)
