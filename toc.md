@@ -1,9 +1,10 @@
 ## Table of Contents
-- Editors and Configuration
+- Editors
   - [Atom](https://atom.io/)
-  - [Editor Config](http://editorconfig.org/)
   - [VS Code](https://code.visualstudio.com/)
   - [Webstorm](https://www.jetbrains.com/webstorm/)
+- Configuration
+  - [Editor Config](http://editorconfig.org/)
 - Package Management
   - [Bower](https://bower.io/)
   - [JSPM](http://jspm.io/)
@@ -19,10 +20,53 @@
   - [Gulp](http://gulpjs.com/)
   - [NPM scripts](https://docs.npmjs.com/misc/scripts)
 - Transpiling
+  - [Babel](https://babeljs.io/)
+  - [Elm](http://elm-lang.org/)
+  - [TypeScript](https://www.typescriptlang.org/)
 - Bundling
+  - [Browserify](http://browserify.org/)
+  - [Webpack](https://webpack.github.io/)
+  - [Rollup](http://rollupjs.org/)
+  - [JSPM](http://jspm.io/)
 - Linting
-- Testing and Continuous Integration
+  - [ESLint](http://eslint.org/)
+  - [JS Hint](http://jshint.com/)
+  - [JSLint](http://www.jslint.com/)
+- Testing
+  - [AVA](https://github.com/avajs/ava)
+  - [Jasmine](https://jasmine.github.io/)
+  - [Jest](https://facebook.github.io/jest/)
+  - [Mocha](https://mochajs.org/)
+  - [QUnit](https://qunitjs.com/)
+  - [Tape](https://github.com/substack/tape)
+- Continuous Integration
+  - [Appveyor](https://www.appveyor.com/)
+  - [CircleCI](https://circleci.com/)
+  - [Jenkins](https://jenkins.io/)
+  - [Semaphore](https://semaphoreci.com/)
+  - [SnapCI](https://snap-ci.com/)
+  - [Travis](https://travis-ci.org/)
 - HTTP Calls
+  - Node
+    - http request
+  - Browser
+    - XMLHttpRequest
+    - jQuery
+    - Fetch
+  - Node & Browser
+    - isomorphic-fetch
+    - xhr
+    - SuperAgent
+    - Axios
 - Project Structure
+  - Example App
 - Production Build
+  - Minification
+  - Hard code
+  - Manipulate via Node
+  - html-webpack-plugin
 - Production Deploy
+  - Automation
+    - npm start
+    - npm run build
+    - npm run deploy
