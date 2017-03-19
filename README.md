@@ -19,6 +19,8 @@
 
 ---
 
+## [My Setup Process](newsetup.md)
+
 ***Terms used synonymously ...***
 - *Boilerplate*
 - *JavaScript Dev Environment*

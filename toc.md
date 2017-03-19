@@ -5,8 +5,6 @@
 - [EditorConfig](http://editorconfig.org/)
   - My [.editorconfig](.editorconfig) setup
 - Package Management
-  - [Bower](https://bower.io/)
-  - [JSPM](http://jspm.io/)
   - [NPM](https://www.npmjs.com/)
 - Development Web Server
   - [Browsersync](https://browsersync.io/)
