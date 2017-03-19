@@ -1,5 +1,6 @@
 # Table of Contents (TOC)
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1000px-Unofficial_JavaScript_logo_2.svg.png" align="left" hspace="10" vspace="6"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1000px-Unofficial_JavaScript_logo_2.svg.png" width="100">
+
 - Package Management
 - Bundling
 - Minification
