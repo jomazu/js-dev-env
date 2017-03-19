@@ -23,7 +23,7 @@
 
 ---
 
-*The following terms are used synonymously ...*
+***Terms are used synonymously ...***
 - *Boilerplate*
 - *JavaScript Dev Environment*
 - *Seed*
