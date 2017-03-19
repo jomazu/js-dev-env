@@ -3,8 +3,9 @@
   - [Atom](https://atom.io/)
   - [VS Code](https://code.visualstudio.com/)
   - [Webstorm](https://www.jetbrains.com/webstorm/)
-- Configuration
+- Editor Configuration
   - [Editor Config](http://editorconfig.org/)
+    - [My .editorconfig](.editorconfig)
 - Package Management
   - [Bower](https://bower.io/)
   - [JSPM](http://jspm.io/)
