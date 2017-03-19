@@ -2,9 +2,8 @@
 - Editors
   - [VS Code](https://code.visualstudio.com/)
   - [Webstorm](https://www.jetbrains.com/webstorm/)
-- Editor Configuration
-  - [EditorConfig](http://editorconfig.org/)
-    - My [.editorconfig](.editorconfig) setup
+- [EditorConfig](http://editorconfig.org/)
+  - My [.editorconfig](.editorconfig) setup
 - Package Management
   - [Bower](https://bower.io/)
   - [JSPM](http://jspm.io/)
