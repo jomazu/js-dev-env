@@ -1,5 +1,5 @@
 # Building a Development Environment
-<img src="images/JavaScript_logo.svg" width="150">
+<img src="js-dev-env/images/JavaScript_logo.svg" width="150">
 
 ---
 
