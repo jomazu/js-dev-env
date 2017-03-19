@@ -1,5 +1,5 @@
 # Table of Contents (TOC)
-<a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1000px-Unofficial_JavaScript_logo_2.svg.png" align="left" hspace="10" vspace="6"></a>
 - Package Management
 - Bundling
 - Minification
