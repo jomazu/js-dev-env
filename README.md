@@ -4,22 +4,18 @@
 ---
 
 ## [Table of Contents](toc.md)
+- Editors and Configuration
 - Package Management
-- Bundling
-- Minification
-- Sourcemaps
+- Development Web Server
+- Automation
 - Transpiling
-- Dynamic HTML Generation
-- Centralized HTTP
-- Mock API Framework
-- Component Libraries
-- Development Webserver
+- Bundling
 - Linting
-- Automated testing
-- Continuous Integration
-- Automated build
-- Automated deployment
-- Working example app
+- Testing and Continuous Integration
+- HTTP Calls
+- Project Structure
+- Production Build
+- Production Deploy
 
 ---
 
