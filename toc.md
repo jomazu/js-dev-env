@@ -1,3 +1,4 @@
+## Table of Contents
 - Package Management
 - Bundling
 - Minification
