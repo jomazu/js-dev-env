@@ -1,17 +1,28 @@
 ## Table of Contents
+- Editors and Configuration
+  - [Atom](https://atom.io/)
+  - [Editor Config](http://editorconfig.org/)
+  - [VS Code](https://code.visualstudio.com/)
+  - [Webstorm](https://www.jetbrains.com/webstorm/)
 - Package Management
-- Bundling
-- Minification
-- Sourcemaps
+  - [Bower](https://bower.io/)
+  - [JSPM](http://jspm.io/)
+  - [NPM](https://www.npmjs.com/)
+- Development Web Server
+  - [Browsersync](https://browsersync.io/)
+  - [Express](https://www.npmjs.com/package/express-server)
+  - [HTTP-server](https://www.npmjs.com/package/http-server)
+  - [Live-server](https://www.npmjs.com/package/live-server)
+  - [Webpack dev-server](https://webpack.github.io/docs/webpack-dev-server.html)
+- Automation
+  - [Grunt](https://gruntjs.com/)
+  - [Gulp](http://gulpjs.com/)
+  - [NPM scripts](https://docs.npmjs.com/misc/scripts)
 - Transpiling
-- Dynamic HTML Generation
-- Centralized HTTP
-- Mock API Framework
-- Component Libraries
-- Development Webserver
+- Bundling
 - Linting
-- Automated testing
-- Continuous Integration
-- Automated build
-- Automated deployment
-- Working example app
+- Testing and Continuous Integration
+- HTTP Calls
+- Project Structure
+- Production Build
+- Production Deploy
