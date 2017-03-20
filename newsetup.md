@@ -1,7 +1,7 @@
 ## Setup New JS Environment
 
 ### *Initial Configuration*
-From the project's root directory:
+In the root of new project:
 
 1. Add [.editorconfig](.editorconfig) boilerplate.  
 2. Add [package.json](package.json) boilerplate.
@@ -20,6 +20,21 @@ $ nsp check
 ```
 
 ---
-### *Install Development Web Server*
+### *Development Web Server*
 
-5. 
+5. [Express](https://expressjs.com/) was installed during the `npm install` process, because it is listed in the `package.json` file. However, it still needs to be configured.
+6. Create a new folder in the project root called `buildScripts`, which will contain all build-related tools. Then add a new file to this folder called `srcServer.js`. Note, `src` is short for source.
+```bash
+$ mkdir buildScripts
+$ cd buildScripts
+$ touch srcServer.js
+```
+```bash
+|____project
+|  |____buildScripts
+|     |____srcServer.js
+|  |____node_modules
+|  |____package.json
+|  |____.editorconfig
+```
+7. `srcServer.js` will configure a web server that will serve-up the file in the source directory.  
