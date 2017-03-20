@@ -3,9 +3,9 @@
   - [VS Code](https://code.visualstudio.com/)
   - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [EditorConfig](http://editorconfig.org/)
-  - My [.editorconfig](.editorconfig) setup
-- Package Management
-  - [NPM](https://www.npmjs.com/)
+  - My [.editorconfig](.editorconfig) boilerplate
+- [npm](https://www.npmjs.com/) - package manager for JS
+  - My [package.json](package.json) boilerplate
 - Development Web Server
   - [Browsersync](https://browsersync.io/)
   - [Express](https://www.npmjs.com/package/express-server)
