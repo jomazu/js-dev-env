@@ -1,13 +1,13 @@
 ## New JS Environment Setup
 
-#### Initial Configuration
+### Initial Configuration
 From the project's root directory:
 
 1. Add [.editorconfig](.editorconfig) boilerplate.  
 2. Add [package.json](package.json) boilerplate.
 
 ---
-#### Package Installation
+### Package Installation
 
 3. Run `npm install` to install all packages listed inside package.json to a new folder called `node_modules`.
 ```bash
@@ -20,6 +20,6 @@ $ nsp check
 ```
 
 ---
-#### Install Development Web Server
+### Install Development Web Server
 
 5. 
