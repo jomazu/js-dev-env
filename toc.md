@@ -1,17 +1,12 @@
 ## Table of Contents
-- Editors
-  - [VS Code](https://code.visualstudio.com/)
+- Editor
   - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [EditorConfig](http://editorconfig.org/)
   - My [.editorconfig](.editorconfig) boilerplate
 - [npm](https://www.npmjs.com/) - package manager for JS
   - My [package.json](package.json) boilerplate
 - Development Web Server
-  - [Browsersync](https://browsersync.io/)
   - [Express](https://www.npmjs.com/package/express-server)
-  - [HTTP-server](https://www.npmjs.com/package/http-server)
-  - [Live-server](https://www.npmjs.com/package/live-server)
-  - [Webpack dev-server](https://webpack.github.io/docs/webpack-dev-server.html)
 - Automation
   - [Grunt](https://gruntjs.com/)
   - [Gulp](http://gulpjs.com/)
