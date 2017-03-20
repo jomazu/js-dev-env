@@ -9,8 +9,15 @@ From the project's root directory:
 ---
 #### Package Installation
 
-3. Run `npm install` to install all packages listed inside package.json to a new folder called "node_modules".
+3. Run `npm install` to install all packages listed inside package.json to a new folder called `node_modules`.
+```bash
+$ npm install
+```
 4. Install the [Node Security Project](https://www.npmjs.com/package/nsp) by running `npm install -g nsp`. Then run `nsp check` to examine package.json packages for known vulnerabilities.
+```bash
+$ npm install -g nsp
+$ nsp check
+```
 
 ---
 #### Install Development Web Server
