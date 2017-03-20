@@ -23,7 +23,7 @@ $ nsp check
 ### *Development Web Server*
 
 5. [Express](https://expressjs.com/) was installed during the `npm install` process, because it is listed in the `package.json` file. However, it still needs to be configured.
-6. Create a new folder in the project root called `buildScripts`, which will contain all build-related tools. Then add a new file to this folder called `srcServer.js`. Note, `src` is short for source.
+6. Create a new folder in the project root called `buildScripts`, which will contain all build-related tools. Then add a new file to this folder called [srcServer.js](srcServer.js). Note, `src` is short for source.
 ```bash
 $ mkdir buildScripts
 $ cd buildScripts
