@@ -37,4 +37,18 @@ $ touch srcServer.js
 |  |____package.json
 |  |____.editorconfig
 ```
-7. `srcServer.js` will configure a web server that will serve-up the file in the source directory.  
+7. [srcServer.js](srcServer.js) will configure a web server that serves-up [index.html](index.html) from the `src` (source) directory, as shown below.
+```bash
+|____project
+|  |____buildScripts
+|     |____srcServer.js
+|  |____node_modules
+|  |____src
+|     |____index.html
+|  |____package.json
+|  |____.editorconfig
+```
+8. To serve up the [index.html](index.html) page, run the following:
+```bash
+$ node buildScripts/srcServer.js
+```
